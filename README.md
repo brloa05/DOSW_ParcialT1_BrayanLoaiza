@@ -38,7 +38,8 @@ El sistema de Bankify debe tener:
 | **Precondiciones** | *Que el programa valide que es un profesor* |
 | **Actor** | *profesor* |
 | **Flujo principal** | 1. El actor …<br>2. El sistema …<br>3. El sistema … |
-| **Diagrama de caso de uso** | *imagen y link*|
+| **Diagrama de caso de uso** | *<img width="941" height="474" alt="image" src="https://github.com/user-attachments/assets/ebabeb43-58e8-4e8a-b979-dba79e3129ba" />
+*|
 | **Poscondiciones** | *Se espera como resultado que el profesor pueda reservar su salon* |
 
 
@@ -52,20 +53,7 @@ El sistema de Bankify debe tener:
 | **Precondiciones** | *Para que el sistema cumpla con este requerimiento debe tener previamente un validador de que es un profesor* |
 | **Actor** | *profesor* |
 | **Flujo principal** | 1. El actor …<br>2. El sistema …<br>3. El sistema … |
-| **Diagrama de caso de uso** | *imagen y link*|
+| **Diagrama de caso de uso** | **|
 | **Poscondiciones** | *Se espera como resultado que el profesor puedar reservar su oficina* |
 
-### 2.3 Requerimiento Funcional 3
 
-| Campo | Descripción |
-|------|-------------|
-| **ID** | RF-03 |
-| **Nombre del requerimiento** | |
-| **Descripción** | *El sistema debe …* |
-| **Precondiciones** | *Para que el sistema cumpla con este requerimiento, Bankify debe tener previamente …* |
-| **Actor** | *(El actor debe estar definido en el diagrama de contexto)* |
-| **Flujo principal** | 1. El actor …<br>2. El sistema …<br>3. El sistema … |
-| **Diagrama de caso de uso** | *imagen y link*|
-| **Poscondiciones** | *Se espera como resultado …* |
-
-## 3. Preguntas
