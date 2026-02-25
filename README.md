@@ -53,7 +53,8 @@ El sistema de Bankify debe tener:
 | **Precondiciones** | *Para que el sistema cumpla con este requerimiento debe tener previamente un validador de que es un profesor* |
 | **Actor** | *profesor* |
 | **Flujo principal** | 1. El actor …<br>2. El sistema …<br>3. El sistema … |
-| **Diagrama de caso de uso** | **|
+| **Diagrama de caso de uso** | *<img width="705" height="360" alt="image" src="https://github.com/user-attachments/assets/8fb1522c-3bb9-4211-9035-2c6e5c692835" />
+*|
 | **Poscondiciones** | *Se espera como resultado que el profesor puedar reservar su oficina* |
 
 
